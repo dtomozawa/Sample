@@ -1,5 +1,4 @@
 
-
 public class Clock1 {   
     public static int getSeconds(int hour, int minute, int second) {
         return hour * 3600 + minute * 60 + second;
